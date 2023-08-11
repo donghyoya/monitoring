@@ -14,7 +14,7 @@ load_dotenv(dotenv_path=".env.server_local")
 
 send_api = os.getenv("NODEJS_SERVER_URL")
 print(send_api)
-print("send_api: "+send_api)
+print("send_api1: "+send_api)
 
 while True:
     cpu_percent = psutil.cpu_percent(interval=0.5)
