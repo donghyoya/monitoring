@@ -1,0 +1,7 @@
+# pip install -r package-python.txt
+
+
+psutil==5.9.5
+load_dotenv==1.0.0
+requests == 2.31.0
+requests==2.26.0
